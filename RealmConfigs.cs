@@ -1,6 +1,6 @@
 ﻿namespace Login
 {
-    public class RealmListConfigs
+    public class RealmConfigs
     {
         public Realm[] Realms { get; set; }
     }
